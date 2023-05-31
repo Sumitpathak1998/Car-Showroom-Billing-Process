@@ -1,7 +1,7 @@
 # Car-Showroom-Billing-Process
 By using hibernate mapping concept generate car showroom bills
 
-This Project i mainly using Hibernate mapping concept like @onetoone , @onetomany and @manytoone
+This Project i mainly using Hibernate mapping concept like @onetone , @onetomany and @manytoone.
 Here Five Entity classes i make 
 1) Person - with the Person entity class i map person address and PAN by the help of @Onetoone mapping.so, at the time we persist the person details there addrss and PAN detsils also added with them.
 2) Address - Hold the detsils of Address of Person 
